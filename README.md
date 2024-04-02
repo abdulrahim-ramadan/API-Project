@@ -1,4 +1,9 @@
-# Django API Project
+# Django API Project ⭐👨‍💻
+
+<p align="center">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="100" height="100" />
+</p>
+
 
 Welcome to our Django API project repository! This project provides a robust and scalable web API solution built on the Django framework.
 
