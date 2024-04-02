@@ -1,5 +1,10 @@
 # Django API Project ⭐👨‍💻
 
+
+<p align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
+</p>
+
 <p align="center">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="100" height="100" />
 </p>
@@ -40,4 +45,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to explore,
 
 Have questions or feedback? Reach out to us at abdalrhim19991@hotmail.com.
 
+
+####  Please ⭐ the repo to support our project 
 
