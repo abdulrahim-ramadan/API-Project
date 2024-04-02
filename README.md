@@ -21,7 +21,7 @@ Once the server is up and running, explore our API's various endpoints to intera
 
 ## Documentation
 
-For detailed information on available endpoints and their usage, refer to our [comprehensive documentation](docs/documentation.md). It provides clear guidance on making the most of our API's capabilities.
+For detailed information on available endpoints and their usage, refer to our [comprehensive documentation](https://www.django-rest-framework.org/)). It provides clear guidance on making the most of our API's capabilities.
 
 ## Contributions
 
